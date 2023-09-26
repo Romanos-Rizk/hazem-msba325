@@ -18,7 +18,7 @@ st.title("Phone Market Analysis")
 phone_df = pd.read_csv(phone_data_path)
 
 
-company_df = pd.read_excel(company_data_path)
+company_df = pd.read_csv(company_data_path)
 
 
 st.header("Phone Prices Distribution")
@@ -67,7 +67,7 @@ st.title("Phone Market Analysis")
 phone_df = pd.read_csv(phone_data_path)
 
 # Load company data into a DataFrame
-company_df = pd.read_excel(company_data_path)
+company_df = pd.read_csv(company_data_path)
 
 # Visual 1: Histogram of Phone Prices
 st.header("Phone Prices Distribution")
