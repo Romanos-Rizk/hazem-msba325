@@ -58,8 +58,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-phone_data_path = r"C:\\Users\\User\\Desktop\\Data visualizaton\\phone_price.csv"
-company_data_path = r'C:\\Users\\User\\Desktop\\Data visualizaton\\map.xlsx'
+phone_data_path = r"https://raw.githubusercontent.com/Romanos-Rizk/hazem-msba325/main/phone_price.csv"
+company_data_path = r'https://raw.githubusercontent.com/Romanos-Rizk/hazem-msba325/main/map.csv'
 
 st.title("Phone Market Analysis")
 
