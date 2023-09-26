@@ -10,7 +10,7 @@ import plotly.express as px
 #import plotly.graph_objects as go
 
 phone_data_path = r"https://raw.githubusercontent.com/Romanos-Rizk/hazem-msba325/main/phone_price.csv"
-company_data_path = r'https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRomanos-Rizk%2Fhazem-msba325%2Fmain%2Fmap.xlsx&wdOrigin=BROWSELINK'
+company_data_path = r'https://raw.githubusercontent.com/Romanos-Rizk/hazem-msba325/main/map.csv'
 
 st.title("Phone Market Analysis")
 
