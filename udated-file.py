@@ -107,7 +107,7 @@ print(f"Streamlit app code has been saved to {os.path.abspath(file_path)}")
 # In[ ]:
 
 
-get_ipython().system('streamlit run my_streamlit_app.py')
+#get_ipython().system('streamlit run my_streamlit_app.py')
 
 
 # In[ ]:
